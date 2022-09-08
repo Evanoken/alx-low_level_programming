@@ -1,15 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry point for the main function
+ * main - Entry point
  *
- * Returns 0 (when Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	/*
-	 * This is duisplay function
-	 */
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
