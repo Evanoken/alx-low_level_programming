@@ -1,3 +1,4 @@
+#include <unistd.h>
 #include "evans.h"
 /**
  * main - Entry point
