@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char *sh = "evans";
+	char *sh = "main";
 
 	while (*sh)
 	{
