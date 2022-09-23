@@ -1,5 +1,4 @@
 /**
- * function to reverse
  * reverse_array - reverses an array
  *
  * @a: array to reverse
